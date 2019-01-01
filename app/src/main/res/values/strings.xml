@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenElection</string>
+    <string name="choose_your_candidate">Choose your candidate</string>
+</resources>
